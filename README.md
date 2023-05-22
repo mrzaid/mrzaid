@@ -19,3 +19,5 @@ style="font-style: italic"
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mrzaid&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
+⭐️ From [Zaid Ahmed](https://mzaidahmed.netlify.app/home)

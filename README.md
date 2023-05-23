@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Zaid Ahmed</h1>
 <h3 align="center"
 style="font-style: italic"
->(Data Scientist @ Data Science Dojo)</h3>
+>(Full Stack Data Scientist @ Data Science Dojo)</h3>
 
 
 ## 🌐 Socials:

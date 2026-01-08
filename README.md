@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Zaid Ahmed</h1>
 <h3 align="center"
 style="font-style: italic"
->(Full Stack Data Scientist @ Data Science Dojo)</h3>
-
+  
+I specialize in leveraging Large Language Models (LLMs) to deliver cutting-edge solutions for businesses. With expertise in FastAPI, Langchain, Docker, NestJS, Postgres, Haystack, and RAG, I bring practical experience in developing robust backend applications. Each project in my portfolio showcases the seamless integration of these technologies, highlighting the transformative power of AI in turning ideas into intelligent, actionable solutions for businesses.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mrzaid) 

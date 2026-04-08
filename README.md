@@ -20,96 +20,113 @@ I specialize in leveraging Large Language Models (LLMs) to deliver cutting-edge 
 I actively explore and implement cutting-edge AI concepts through hands-on tutorials and real-world experiments. Below is a curated collection of key learnings and implementations from advanced AI tutorials:
 
 ---
+# 🚀 AI Tutorials & Hands-on Learning
 
-## 🧠 Build Custom AI with Redis & LangChain
+I actively explore and implement cutting-edge AI concepts through hands-on tutorials and real-world experiments. Below is a curated collection of key learnings and implementations from advanced AI tutorials:
+
+---
+
+## 🧠 Build Custom AI with Redis & LangChain  
+🔗 https://datasciencedojo.com/tutorial/build-custom-ai-redis-langchain/
+
 - Developed a **ChatGPT-like system** using Redis as a vector database and LangChain for orchestration.
 - Learned how **vector embeddings & similarity search** power retrieval-based AI systems.
 - Implemented **RAG (Retrieval-Augmented Generation)** to ground LLM responses in custom data.
 - Built pipelines combining:
-  - OpenAI embeddings
-  - Redis vector store
+  - OpenAI embeddings  
+  - Redis vector store  
   - LangChain chains for query handling  
-- Result: A scalable chatbot that reduces hallucinations and improves contextual accuracy. :contentReference[oaicite:0]{index=0}
+- Redis enables **vector search, semantic caching, and persistent memory**, making it ideal for scalable AI systems :contentReference[oaicite:0]{index=0}  
 
 ---
 
-## 🤖 Build Your Own ChatGPT with LlamaIndex
+## 🤖 Build Your Own ChatGPT with LlamaIndex  
+🔗 https://datasciencedojo.com/tutorial/build-your-own-chatgpt-with-llama-index/
+
 - Created a **custom knowledge chatbot** using LlamaIndex for document indexing and retrieval.
+- Built semantic search pipelines for querying large datasets.
 - Learned how to:
-  - Structure data pipelines for LLM querying
-  - Connect external data sources with LLMs
-  - Build query engines for semantic search
-- Focused on **efficient document ingestion + retrieval workflows** for production-ready AI systems.
+  - Connect external data sources with LLMs  
+  - Design efficient document ingestion pipelines  
+  - Build query engines for contextual responses  
 
 ---
 
-## 🔧 Fine-Tuning LLaMA 2 on RunPod
-- Explored **fine-tuning techniques** for open-source LLMs.
+## 🔧 Fine-Tuning LLaMA 2 on RunPod  
+🔗 https://datasciencedojo.com/tutorial/fine-tuning-llama-2-on-runpod/
+
+- Explored **fine-tuning open-source LLMs (LLaMA 2)**.
 - Learned:
-  - Dataset preparation and formatting
-  - Parameter tuning strategies
-  - GPU-based training using RunPod
-- Built customized models tailored to specific use cases, improving domain-specific performance.
+  - Dataset preparation & formatting  
+  - Parameter-efficient tuning techniques  
+  - GPU-based training using RunPod  
+- Improved **domain-specific model performance** for real-world use cases.  
 
 ---
 
-## 🧩 Multi-Agent Framework Crash Course
-- Designed **multi-agent AI systems** where specialized agents collaborate.
-- Key concepts:
-  - Role-based agents (planner, researcher, writer)
-  - Shared memory & state management
-  - Sequential and orchestrated workflows
-- Built systems where agents:
-  - Break down tasks
-  - Retrieve information
-  - Generate structured outputs  
-- Demonstrated how modular agents improve scalability and flexibility. :contentReference[oaicite:1]{index=1}
+## 🧩 Multi-Agent Framework Crash Course  
+🔗 https://datasciencedojo.com/tutorial/multi-agent-framework-crash-course/
 
----
-
-## 🔗 A2A Protocol Workshop
-- Learned **Agent-to-Agent (A2A) communication protocols**.
-- Built interoperable systems where multiple AI agents:
-  - Exchange structured messages
-  - Collaborate across tasks
-- Focused on **standardizing communication between agents** for scalable AI architectures.
-
----
-
-## ⚙️ Agentic AI Protocols (MCP, A2A, ACP)
-- Explored modern protocols powering agentic AI:
-  - **MCP (Model Context Protocol)** → structured agent communication
-  - **A2A (Agent-to-Agent)** → collaboration between agents
-  - **ACP (Agent Communication Protocol)** → interoperability layer
-- Learned how these protocols enable:
-  - Modular AI systems
-  - Better orchestration
-  - Context-aware interactions
-- Compared how protocols impact performance, delegation, and scalability in multi-agent systems. :contentReference[oaicite:2]{index=2}
-
----
-
-## 🔄 MCP Integration for Agentic AI Automation
-- Built **automated AI workflows using MCP**
+- Built **multi-agent AI systems** with specialized roles.
+- Designed agents such as:
+  - Planner  
+  - Researcher  
+  - Writer  
 - Implemented:
-  - Multi-agent pipelines
-  - Context sharing between agents
-  - Task delegation systems
-- Integrated MCP with frameworks like:
-  - LlamaIndex
-  - LangChain
-- Result: Fully automated, intelligent systems capable of handling complex workflows with minimal human input.
+  - Shared memory systems  
+  - Task orchestration pipelines  
+- Learned how multi-agent systems improve **modularity, scalability, and reasoning workflows** :contentReference[oaicite:1]{index=1}  
+
+---
+
+## 🔗 A2A Protocol Workshop  
+🔗 https://datasciencedojo.com/tutorial/a2a-protocol-workshop/
+
+- Learned **Agent-to-Agent (A2A) communication frameworks**.
+- Built systems where agents:
+  - Exchange structured messages  
+  - Collaborate across tasks  
+- Focused on enabling **interoperability between independent AI agents**.  
+
+---
+
+## ⚙️ Agentic AI Protocols (MCP, A2A, ACP)  
+🔗 https://datasciencedojo.com/tutorial/agentic-ai-protocols-mcp-a2a-acp/
+
+- Explored core protocols for agentic AI systems:
+  - **MCP (Model Context Protocol)**  
+  - **A2A (Agent-to-Agent)**  
+  - **ACP (Agent Communication Protocol)**  
+- Learned how protocols enable:
+  - Context sharing  
+  - Scalable orchestration  
+  - Modular AI architectures  
+
+---
+
+## 🔄 MCP Integration for Agentic AI Automation  
+🔗 https://datasciencedojo.com/tutorial/mcp-integration-agentic-ai-automation/
+
+- Built **automated multi-agent workflows using MCP**.
+- Integrated:
+  - LangChain  
+  - LlamaIndex  
+- Implemented:
+  - Context sharing between agents  
+  - Task delegation pipelines  
+- Created systems capable of **end-to-end autonomous execution**.  
 
 ---
 
 ## 💡 Key Takeaways
+
 - Strong expertise in:
   - **RAG architectures**
   - **Multi-agent systems**
   - **LLM fine-tuning**
-  - **AI protocols (MCP, A2A, ACP)**
-- Focus on building **production-ready AI systems**, not just demos
-- Passion for turning **AI research into real-world applications**
+  - **Agentic AI protocols (MCP, A2A, ACP)**  
+- Focus on building **production-ready AI systems**, not just demos  
+- Passion for turning **AI research into real-world applications**  
 
 ---
 

@@ -20,11 +20,6 @@ I specialize in leveraging Large Language Models (LLMs) to deliver cutting-edge 
 I actively explore and implement cutting-edge AI concepts through hands-on tutorials and real-world experiments. Below is a curated collection of key learnings and implementations from advanced AI tutorials:
 
 ---
-# 🚀 AI Tutorials & Hands-on Learning
-
-I actively explore and implement cutting-edge AI concepts through hands-on tutorials and real-world experiments. Below is a curated collection of key learnings and implementations from advanced AI tutorials:
-
----
 
 ## 🧠 Build Custom AI with Redis & LangChain  
 🔗 https://datasciencedojo.com/tutorial/build-custom-ai-redis-langchain/
